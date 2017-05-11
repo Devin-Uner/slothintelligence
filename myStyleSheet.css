@@ -1,0 +1,95 @@
+body {
+    margin: 0px 0px 0px 0px;
+    font-family:'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', 'Helvetica';
+}
+h1 {
+    color: #f5f5f5;
+    text-shadow: 1px 1px #616161;
+    font-family:'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', 'Helvetica';
+    padding-left: 5%;
+}
+p {
+    font-family:'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', 'Helvetica';
+    padding-left: 6%;
+    padding-right: 6%;
+}
+
+input.checkbox {
+	display: none;
+}
+
+ul {
+	font-size: 25;
+    list-style-type: none;
+    margin-top: 14%;
+    padding: 0;
+    position: absolute;
+    width: 15%;
+    background-color: #aee581;
+    height: 26%;
+    border-spacing: 200%;
+    overflow: auto;
+}
+
+td {
+	font-size: 22px;
+}
+
+li a {
+    display: block;
+    padding: 8px 16px;
+    text-decoration: none;
+    color: black;
+}
+
+/* Change the link color on hover */
+li a:hover {
+    background-color: #c68c53;
+}
+
+/* Info tab styles */
+
+.neural_network_output {
+	font-size: 15;
+	color: #f5f5f5;
+}
+
+.logo {
+	padding-bottom: 15%;
+}
+
+.about {
+	font-size: 30;
+	color: #f5f5f5;
+	margin: 0px 0px 0px 0px;
+	background-color: #aed581;
+	height:100vh;
+	padding: 5%;
+}
+
+.symptoms {
+	font-size: 30;
+	margin: 0px 0px 0px 0px;
+	background-color: #0dbdbd;
+	height:180vh;
+	padding: 5%;
+	text-align: center;
+}
+
+
+
+.how-it-works {
+	font-size: 30;
+	margin: 0px 0px 0px 0px;
+	background-color: #a166c4;
+	height:120vh;
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+
+
+
+
+
+
+
