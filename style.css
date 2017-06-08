@@ -34,7 +34,7 @@ body {
       font-size: 50px;
   }
   .logo {
-      color: #f4511e;
+      color: rgb(160,207,110);
       font-size: 200px;
   }
   .thumbnail {
@@ -183,4 +183,7 @@ body {
       width: 25%;
    }
   }
-  
+
+.find_symptoms {
+  background-color: rgb(160,207,110);
+  }
